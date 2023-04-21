@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Dubai2 Project.</h1>
+<h1 align="center">Welcome to Tesla Web application Dubai25 Project.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class32 will start on April 15, 2023. Make sure you are not left out, be the change you anticipate </h1>
+	Class32 will start on April 15, 2023. Make sure you are not left out, be the change you anticipated in the world</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
